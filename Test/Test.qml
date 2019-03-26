@@ -7,7 +7,7 @@ Rectangle {
     TextScroll {
         id: textScroll
         anchors.centerIn: parent
-        width: 200
+        width: 300
         fontPixelSize: 40
         text: "遇见你每天都有好心情，没关系薯片辣条都给你。"
     }
