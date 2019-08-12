@@ -27,7 +27,7 @@ Item {
             loops: Animation.Infinite
             from: 0
             to: -textLoader.width
-            duration: 5000
+            duration: sourceText.width * 50
         }
     }
 
